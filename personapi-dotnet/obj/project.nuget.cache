@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oV/uT4MsMSJK8LqZ616w74cUstxWb7+LvSiN4g0MTfGettk46ewLdjJvvD/JUsAZS862luqcyIxnheFdQZLtRg==",
+  "success": true,
+  "projectFilePath": "D:\\Semestre\\Arquitectura\\taller 3\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://coboap15/OM.NuGet/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
